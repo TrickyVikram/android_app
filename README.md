@@ -1,2 +1,1 @@
-# android_app
-java
+# Demo_android
